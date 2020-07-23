@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/RianTavares/riantavares/master/imgs/rian-tavares-menu-top.png"></p>
 
-- 👨🏼‍💻 I’m currently working on Editora Globo
+- 👨🏼‍💻 I’m currently working at Infoglobo
 - 📚 I’m currently learning React Native
 - 🤝 I’m looking to collaborate on cool projects
 - ⭐️ Don't forget to take a look on my projects
