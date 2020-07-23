@@ -3,6 +3,8 @@
 - 👨🏼‍💻 I’m currently working on Editora Globo
 - 📚 I’m currently learning React Native
 - 🤝 I’m looking to collaborate on cool projects
+- ⭐️ Don't forget to take a look on my projects
+- ✅ PRs are welcome!
 - 📫 To reach me just access the links below
 
 <h1></h1>
