@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align="center"><img src="./imgs/rian-tavares-menu-top.png"></p>
 
-<!--
-**RianTavares/riantavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏼‍💻 I’m currently working on Editora Globo
+- 📚 I’m currently learning React Native
+- 🤝 I’m looking to collaborate on cool projects
+- 📫 To reach me just access the links below
 
-Here are some ideas to get you started:
+<h1></h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://riantavares.github.io/" target="_blank"><img width="30px" src="./imgs/website.png"></a>
+  <a href="https://instagram.com/riantavareson" target="_blank"><img width="30px" src="./imgs/insta.png"></a>
+  <a href="https://youtube.com/c/SpeakUpTech" target="_blank"><img width="30px" src="./imgs/youtube.png"></a>
+</p>
