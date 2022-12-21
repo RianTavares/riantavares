@@ -7,7 +7,7 @@
 <hr>
 <br>
 
-- 🧑🏻‍💻 I’m currently working at [Stylight](https://github.com/stylight/)
+- 🧑🏻‍💻 I’m currently working at [Jochen Schweizer](https://github.com/stylight/](https://www.jochen-schweizer.de/)
 
 - 📝  I’m always studying **UI, JavaScript, ReactJS, React Native, TypeScript, NodeJS**
 
