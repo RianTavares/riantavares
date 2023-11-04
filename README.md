@@ -7,17 +7,17 @@
 <hr>
 <br>
 
-- 🧑🏻‍💻 I’m currently working at [Jochen Schweizer](https://www.jochen-schweizer.de/)
+- 🧑🏻‍💻 I’m currently working at [Code Duals](https://www.linkedin.com/company/code-duals/)
 
-- 📝  I’m always studying **UI, JavaScript, ReactJS, React Native, TypeScript, NodeJS**
+- 📝  I’m always studying **UI, JavaScript, ReactJS, React Native, TypeScript, Next, NodeJS**
 
 - 💬  Open to **career** and **technology** mentoring sessions
 
 - 🚀  How to reach me  [riantavares.dev](https://riantavares.dev)
 
-- 📍 Living in Munich, Germany.
+- 📍 Living in Brazil.
   
-- 🖖🏼 In my spare time...I enjoy sports and everything that has something to do with it, I like playing soccer, surf, jogging, snowboarding. I'm also into drinking german beer and I love to go out or do some trips with my family.
+- 🖖🏼 In my spare time...I enjoy sports and everything that has something to do with it, I like playing soccer, surfing, jogging, and snowboarding. I'm also into drinking German beer and I love to go out or go for a trip with my family.
 
 <br>
 <br>
